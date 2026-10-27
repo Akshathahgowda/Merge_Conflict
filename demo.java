@@ -4,5 +4,7 @@ class demo
   {
     System.out.println("demo class");
     System.out.println("demo class two");
+    System.out.println("demo class one");
+
   }
 }
